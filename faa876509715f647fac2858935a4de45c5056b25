@@ -1,0 +1,1 @@
+{"jobID":"4ad8deb1-80b7-20f5-96bc-e6ebde755b4a","spec":{"type":"policy","cause":{"Message":"","User":"Raphael \u003csobczyk.raphael@siemens.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{},"remove":{"automated":"true"}}}},"result":null}
